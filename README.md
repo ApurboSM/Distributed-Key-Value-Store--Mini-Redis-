@@ -1,4 +1,4 @@
-# Task 10: Distributed Key-Value Store (Mini Redis)
+#  Distributed Key-Value Store (Mini Redis)
 
 ## Overview
 A distributed in-memory key-value store with support for basic Redis-like operations, automatic key sharding across multiple servers, persistence, TTL (Time To Live), and fault tolerance with automatic retry.
